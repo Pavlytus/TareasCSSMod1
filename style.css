@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    box-sizing: border-box;
+    color:cadetblue;
+}
+.encabezado{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;  
+    margin: 0 30px;
+}
+#fotodeperfil{
+    width: 20%;
+    height: 20%;
+    text-align: left;
+    float: right;
+    margin: 0 30px;
+}
+.temasrelevantes{
+    display: flex;
+    
+    }
+#datosbasicos{
+    font-weight: bold;
+    line-height: 0%;
+    
+}
+.listadotemas{
+    padding: 0 30px;
+}
