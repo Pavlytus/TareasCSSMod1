@@ -6,8 +6,8 @@
 .encabezado{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;  
-    margin: 0 30px;
-}
+    margin: 0px;
+    }
 #fotodeperfil{
     width: 20%;
     height: 20%;
@@ -17,13 +17,14 @@
 }
 .temasrelevantes{
     display: flex;
-    
+    justify-content: start;
+    margin: 0px;
+    gap: 30px;
     }
 #datosbasicos{
     font-weight: bold;
     line-height: 0%;
-    
-}
-.listadotemas{
-    padding: 0 30px;
+    }
+.desgloseexperiencia{
+    display: flex;
 }
